@@ -16,7 +16,7 @@ Data Processing: Pandas, NumPy
 External APIs: Alpha Vantage for stock data
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/stock-portfolio-tracker.git
+git clone https://github.com/selekwe-kea/stock-portfolio-tracker.git
 cd stock-portfolio-tracker
 
 Usage
