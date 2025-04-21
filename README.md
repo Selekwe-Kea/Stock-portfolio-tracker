@@ -18,18 +18,7 @@ Installation
 Clone the repository:
 git clone https://github.com/yourusername/stock-portfolio-tracker.git
 cd stock-portfolio-tracker
-Install dependencies:
-pip install flask matplotlib numpy pandas requests tabulate
-Get an Alpha Vantage API key:
 
-Sign up at Alpha Vantage
-Set the API key as an environment variable:
-export ALPHAVANTAGE_API_KEY=your_api_key
-Run the application:
-
-python app.py
-Open your browser and navigate to:
-http://localhost:5000
 Usage
 Add Cash: Click "Add Cash" button to deposit funds into your portfolio
 Buy Stocks: Search for stocks, then use the buy form to purchase shares
